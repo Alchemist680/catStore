@@ -1,0 +1,53 @@
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\catStore.exe.config
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\catStore.exe
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\catStore.pdb
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\EntityFramework.dll
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\EntityFramework.xml
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.csproj.AssemblyReference.cache
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\Assets\Views\Login.g.cs
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\MainWindow.g.cs
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\App.g.cs
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore_Content.g.cs
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore_MarkupCompile.cache
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore_MarkupCompile.lref
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\MainWindow.baml
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\Assets\Views\Login.baml
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.g.resources
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.Properties.Resources.resources
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.csproj.GenerateResource.cache
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.csproj.CoreCompileInputs.cache
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.csproj.CopyComplete
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.exe
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\catStore.pdb
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\Assets\Views\Services.g.cs
+C:\Users\Alchemist091\Desktop\учеба\Разработка кода\catStore\catStore\obj\Debug\Assets\Views\Services.baml
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\catStore.exe.config
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\catStore.exe
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\catStore.pdb
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\EntityFramework.dll
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\EntityFramework.xml
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\OSPanel\domains\С#\catStore\catStore\bin\Debug\ru\EntityFramework.resources.dll
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.csproj.AssemblyReference.cache
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\Assets\Views\Login.g.cs
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\Assets\Views\Services.g.cs
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\MainWindow.g.cs
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\App.g.cs
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore_Content.g.cs
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore_MarkupCompile.cache
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore_MarkupCompile.lref
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\Assets\Views\Login.baml
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\Assets\Views\Services.baml
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\MainWindow.baml
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.g.resources
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.Properties.Resources.resources
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.csproj.GenerateResource.cache
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.csproj.CoreCompileInputs.cache
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.csproj.Up2Date
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.exe
+D:\OSPanel\domains\С#\catStore\catStore\obj\Debug\catStore.pdb
